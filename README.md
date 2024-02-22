@@ -1,6 +1,1 @@
----------------------------------------------
-REQ - WINDOWS 10/11
----------------------------------------------
-THIS IS THE PAID VERSION SO EXEPECT MOST OF THE CODES TO WORK
----------------------------------------------
-discord.gg/6clan FOR HELP!
+SELF MADE GEN IF YOU USE IT IT WILL NOT WORK UNLESS UR WHITELISTED
