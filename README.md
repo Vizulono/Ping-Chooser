@@ -1,4 +1,4 @@
-Nitro Generator
+PRIVATE NITRO GENERATOR
 ----------------
 Req - Python / Windows 10/11
 ----------------
