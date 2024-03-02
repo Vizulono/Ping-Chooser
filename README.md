@@ -1,4 +1,4 @@
-Nitro Generator
+Boosting Bot
 ----------------
 Req - Python / Windows 10/11
 ----------------
