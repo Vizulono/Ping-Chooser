@@ -1,4 +1,4 @@
-Nitro Generator
+BYPASSED
 ----------------
 Req - Python / Windows 10/11
 ----------------
