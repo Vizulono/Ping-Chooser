@@ -1,4 +1,4 @@
-Nitro Generator
+Profile Logger
 ----------------
 Req - Python / Windows 10/11
 ----------------
