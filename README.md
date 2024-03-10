@@ -1,4 +1,4 @@
-Nitro Generator
+  Ping Chooser
 ----------------
 Req - Python / Windows 10/11
 ----------------
