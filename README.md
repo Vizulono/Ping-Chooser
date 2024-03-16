@@ -1,4 +1,4 @@
-  Ping Chooser
+LIZ Grabber
 ----------------
 Req - Python / Windows 10/11
 ----------------
