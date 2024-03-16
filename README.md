@@ -1,4 +1,4 @@
-LIZ Grabber
+Nitro Generator
 ----------------
 Req - Python / Windows 10/11
 ----------------
